@@ -1,5 +1,5 @@
 
 import pywhatkit
 
-pywhatkit.sendwhatmsg("+905050301774","Hello World",14,5)
+pywhatkit.sendwhatmsg("+05531678482","as",20,6)
 

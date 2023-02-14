@@ -15,7 +15,7 @@ def get_valid_word(words):
 
 def hangman():
     word = get_valid_word(words)
-    print(word)
+    #print(word)
     word_letters = set(word) # letters in the word
     alphabet = set(string.ascii_uppercase)
     used_letters = set() # what the user has guessed 
